@@ -59,3 +59,5 @@
 ## 사용방법
   - 파이썬 환경에서 'requirements.txt' 안의 패키지 설치 후 '웹서비스_산출물 > manage.py' 실행
   - [웹 환경 예시 - 유튜브 영상](https://www.youtube.com/watch?v=phZRdA8Wsik)
+    ![image](https://github.com/Jun-Gits/Transit_Insights/assets/139334686/08d46ca4-49dc-4b87-9396-fa69e5ded6fe)
+
