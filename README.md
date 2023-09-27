@@ -59,5 +59,15 @@
 ## 사용방법
   - 파이썬 환경에서 'requirements.txt' 안의 패키지 설치 후 '웹서비스_산출물 > manage.py' 실행
   - [웹 환경 예시 - 유튜브 영상](https://www.youtube.com/watch?v=phZRdA8Wsik)
-    ![image](https://github.com/Jun-Gits/Transit_Insights/assets/139334686/08d46ca4-49dc-4b87-9396-fa69e5ded6fe)
 
+  -  메인 페이지
+    ![image](https://github.com/Jun-Gits/Transit_Insights/assets/139334686/08d46ca4-49dc-4b87-9396-fa69e5ded6fe)
+  
+  -  정보 입력 화면
+    ![image](https://github.com/Jun-Gits/Transit_Insights/assets/139334686/2fcee23e-8df7-4a39-b98f-27ae5464f250)
+
+  -  혼잡도 예측 화면
+    ![image](https://github.com/Jun-Gits/Transit_Insights/assets/139334686/66c22fb6-a319-460f-9a5c-3be92a40e21a)
+
+  - 대쉬보드 화면
+    ![image](https://github.com/Jun-Gits/Transit_Insights/assets/139334686/cdbb6074-9ffa-4f67-844b-e963f7f4232d)
