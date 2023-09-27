@@ -57,5 +57,5 @@
 
 
 ## 사용방법
-  - 파이썬 화경에서 'requirements.txt' 안의 패키지 설치 후 '웹서비스_산출물 > manage.py' 실행
-  - [웹 환경 예시](https://www.youtube.com/watch?v=phZRdA8Wsik)
+  - 파이썬 환경에서 'requirements.txt' 안의 패키지 설치 후 '웹서비스_산출물 > manage.py' 실행
+  - [웹 환경 예시 - 유튜브 영상](https://www.youtube.com/watch?v=phZRdA8Wsik)
