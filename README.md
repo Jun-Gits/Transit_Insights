@@ -11,12 +11,13 @@
   - 머신러닝: Scikit-learn, LightGBM, XGBoost
   - 시각화: Highcharts
 
-  ● 데이터소개 (서울교통굥사 관할인 1~8호선 데이터 사용)
-  - [서울시열린데이터광장 : 서울교통공사 역별 혼잡도 현황](https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do)
-  - [서울시열린데이터광장 : 서울시 지하철 호선별 역별 시간대별 승하차 인원 정보 (월단위 정리)](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do )
-  - [서울시열린데이터광장 : 서울교통공사 연도별 일별 시간대별 역별 승하차 인원 (일단위 정리)](https://data.seoul.go.kr/dataList/OA-12921/F/1/datasetView.do)
-
-
+  ● 데이터소개 
+  - 지하철 데이터 (서울교통공사 관할인 1~8호선 데이터 사용)
+    - [서울시열린데이터광장 : 서울교통공사 역별 시간대별 혼잡도]([https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do](https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do))
+    - [서울시열린데이터광장 : 서울교통공사 연도별 일별 역별 시간대별 승하차인원(1_8호선)](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
+    - [서울시열린데이터광장 : 서울시 지하철 호선별 역별 시간대별 지하철 인원 정보)](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
+    - [서울시 지하철 실시간 도착 정보](https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do)
+    - 
 ## 프로젝트 조직 (역할 분담) - 본인 파트: 머신러닝
 - 팀장(1명): 프로젝트 총괄
 - 웹개발(1명): 스타일 및 구성, 웹서비스 분포
