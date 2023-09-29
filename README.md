@@ -1,22 +1,21 @@
-# Transit_Insights
+## 프로젝트 정보
 
+- 사용언어: Python, JS
+- 개발환경: Google Colab, Jupyter Lab, Git Bash, Py Charm
+- 웹배포: AWS
+- 인원: 6명
+- 기간: 2023.09.01 ~ 2023.09.26
 
-## 프로젝트 주제 및 개요
-  지하철 혼잡도 분석, 예측 모델 개발 및 웹 서비스 구현
-
-
-## 수행 방향
-  ● 수행도구
-  - 웹 배포: Django, AWS
-  - 머신러닝: Scikit-learn, LightGBM, XGBoost
-  - 시각화: Highcharts
-
-  ● 데이터소개 
-  - 지하철 데이터 (서울교통공사 관할인 1~8호선 데이터 사용)
-    - [서울시열린데이터광장 : 서울교통공사 역별 시간대별 혼잡도](https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do)
-    - [서울시열린데이터광장 : 서울교통공사 연도별 일별 역별 시간대별 승하차인원(1_8호선)](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
-    - [서울시열린데이터광장 : 서울시 지하철 호선별 역별 시간대별 지하철 인원 정보)](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
-    - [서울시열린데이터광장 : 서울시 지하철 실시간 도착 정보](https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do)
+## 주요내용
+  - 분석목적
+      - 지하철 혼잡도 분석, 예측 모델 개발 및 웹 서비스 구현
+  - 분석데이터        
+      -  데이터소개
+        - 지하철 데이터 (서울교통공사 관할인 1~8호선 데이터 사용)
+            - [서울시열린데이터광장 : 서울교통공사 역별 시간대별 혼잡도](https://data.seoul.go.kr/dataList/OA-12928/F/1/datasetView.do)
+            - [서울시열린데이터광장 : 서울교통공사 연도별 일별 역별 시간대별 승하차인원(1_8호선)](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
+            - [서울시열린데이터광장 : 서울시 지하철 호선별 역별 시간대별 지하철 인원 정보)](https://data.seoul.go.kr/dataList/OA-12252/S/1/datasetView.do)
+            - [서울시열린데이터광장 : 서울시 지하철 실시간 도착 정보](https://data.seoul.go.kr/dataList/OA-12764/F/1/datasetView.do)
 
 ## 프로젝트 조직 (역할 분담) - 본인 파트: 머신러닝
 - 팀장(1명): 프로젝트 총괄
